@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pathfinder Tools</string>
+    <string name="hello_world">Hello World! Welcome to my Pathfinder Tools App!</string>
+    <string name="equipment_manager">Welcome to the equipment manager!</string>
+</resources>
